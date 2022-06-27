@@ -1,6 +1,6 @@
 # Puzzle Solver
 
-This is just another Puzzle Solver written in Python. It shows how to use `requets` to solve a puzzle using an API. `Pytest` was used for writing mocks and unit tests.
+This is just another Puzzle Solver written in Python. It shows how to use `requests` to solve a puzzle using an external API. `Pytest` was used for writing mocks and unit tests.
 
 ![Output Console](sample_output.png "Output Console")
 
