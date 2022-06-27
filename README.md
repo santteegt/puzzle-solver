@@ -4,12 +4,19 @@ This is just another Puzzle Solver written in Python. It shows how to use `reque
 
 ### Requirements
 
+* Git (Pre-installed)
 * Python 3.x (Pre-installed)
 * Pip (Pre-installed)
 * Virtualenv
 
 ```
 pip install virtualenv
+```
+
+### Clone repository
+
+```
+git clone https://github.com/santteegt/puzzle-solver.git
 ```
 
 The rest of this guide assumes the repository was cloned in `HOME=/project/local/directory` and you have a terminal poiting to the project's root folder 
