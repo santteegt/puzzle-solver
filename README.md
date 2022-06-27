@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 ### Executing the PuzzleSolver
 
+To execute the PuzzleSolver, you need to provide a valid email address as a parameter
+
 ```
 python main.py -e <your@email.com>
 ```
@@ -54,4 +56,4 @@ pytest tests
 
 ### Licence
 
-[MIT](LICENCE.md)
+[MIT](LICENSE.md)
